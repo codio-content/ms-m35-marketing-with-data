@@ -1,0 +1,7 @@
+Based on the data collected, companies put people into certain categories. For example, "women in their 20s who have multiple young children" could be a cateory of people. Another category could be "College graduates who are single and make over $50,000/year". People within a category have something in common and tend to behave in similar ways. A 23 year old woman with 3 young children is not going to behave the same as a 23 year old woman who has graduated college and has no husband or children and has a very promising career. The young mom is probably more likely to spend her money on diapers and baby products while the single woman may be more likely to spend her money on travelling or entertainment.
+
+By putting people into groups, companies try to predict their behavior. If they observe most of the women in their 20s who have multiple young children are buying a mini-van when their children get to school age, then it can be inferred that many of the moms of younger children will probably buy a mini-van when their children go to school as well. 
+
+Based on this prediction, a mini-van company may choose to send advertisements in the mail only to women in their 20s who have multiple young children. To the single working women, the same car company may choose to send advertisements for a sports car or a car that gets very good gas mileage for road trips.
+
+![](.guides/img/people_diagram.png)

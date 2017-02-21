@@ -1,0 +1,64 @@
+{
+ "sections": [
+  {
+   "id": "7b808920-0fd2-10bc-1d04-1ad45e611fa6",
+   "title": "Data Collection",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Collection-7b80.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "27f76b0f-23e7-d2fb-66ca-64bef9101f2e",
+   "title": "Categories of People",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Categories-of-People-27f7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "690dade8-2db5-a979-66e4-0fbf39001e0e",
+   "title": "Why Categorize?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Why-Categorize--690d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0a7ea5c6-1845-0629-1b5f-54adf01c5719",
+   "title": "Problems with Categories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Problems-with-Categories-0a7e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0886016c-f1ad-dea6-1127-aa3322d1112b",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-0886.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}

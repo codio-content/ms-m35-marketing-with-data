@@ -1,0 +1,36 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3818137588",
+  "source": {
+   "name": "Q1",
+   "showName": true,
+   "instructions": "What is one reason a company would split people into categories based on their data?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c2312812-aa7f-f726-09d8-d0b62a06698f",
+     "correct": true,
+     "answer": "To determine what items they are most likely to buy"
+    },
+    {
+     "_id": "5388da34-26e1-afc9-cdca-4afc5d5c879e",
+     "correct": false,
+     "answer": "To send mail to all of the people in every category"
+    },
+    {
+     "_id": "64fcf81e-7f52-1f61-5026-5e7fface675d",
+     "correct": false,
+     "answer": "To help them make friends"
+    },
+    {
+     "_id": "454415bb-f615-7696-2dd9-c7fc92a40fe7",
+     "correct": false,
+     "answer": "To search for missing people"
+    }
+   ]
+  }
+ }
+]
